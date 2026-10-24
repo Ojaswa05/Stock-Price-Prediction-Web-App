@@ -1,4 +1,8 @@
+<div align="center">
+
 # Stock Price Prediction with LSTM
+
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/AI-%20Forecasting-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="AI Forecasting" />
